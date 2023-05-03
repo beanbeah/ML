@@ -1,0 +1,2 @@
+# tldr
+I just brute forced out the best possible sklearn model without any sort of feature engineering. Note, the score is calculated as pow(accuracy,8), so a score of 0.1969 means it has an accuracy of around 82% which is not bad considering no feature engineering was done. 

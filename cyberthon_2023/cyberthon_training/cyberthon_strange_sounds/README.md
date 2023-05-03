@@ -1,0 +1,2 @@
+# tldr
+I tried to make a few models, with some of them suggested by chatGPT. the `scam.py` is as it sounds, a scam. Just did some random combining in the middle of the night and attained a slightly higher accuracy. The CNN model is of particular interest as its optimised using RayTune. 
